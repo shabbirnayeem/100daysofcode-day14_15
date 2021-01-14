@@ -1,5 +1,5 @@
 # 100daysofcode-day14_15
-Leap Year
+Calculator
 
-
-Users can enter an year and it tell you if the year is a leap year or not.
+Simple Calculator app.
+You can add, multiply, subtract and divide.
